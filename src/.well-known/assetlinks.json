@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "alertproject", "package_name": "com.alertproject",
+                 "sha256_cert_fingerprints": ["A8:5C:16:8C:4E:56:EE:E3:63:9D:B8:62:54:E7:7D:6E:4B:61:62:16:0A:9B:6B:7C:0B:55:0E:73:91:5B:E9:08"] }
+}]
